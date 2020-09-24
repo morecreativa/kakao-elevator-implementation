@@ -142,5 +142,5 @@ if __name__ == '__main__':
         try:
             action_ret = action(token, commands)
         except:
-            print(acion_ret)
+            print(action_ret)
         #print("Action: ", commands)
